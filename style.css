@@ -1,0 +1,54 @@
+.big-black {
+    background-color: #0c0b0b;
+    height: 900px;
+    width: 1600px;
+}
+
+.orange {
+    background-color: orange;
+    height: 700px;
+    width: 1600px;
+}
+
+.orange_1 {
+    background-color: orange;
+    height: 200px;
+    width: 1600px;
+}
+
+.red {
+    background-color: red;
+    height: 500px;
+    width: 400px;
+    float: left;
+    top: 100px;
+}
+
+.gren {
+    background-color: #115409;
+    height: 500px;
+    width: 400px;
+    float: left;
+}
+
+.blue {
+    background-color: #0055ff;
+    height: 500px;
+    width: 400px;
+    float: left;
+
+}
+
+.black {
+    background-color: #0c0b0b;
+    height: 500px;
+    width: 400px;
+    float: left;
+}
+
+.orange_2 {
+    background-color: orange;
+    height: 200px;
+    width: 1600px;
+
+}
